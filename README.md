@@ -25,7 +25,7 @@ cd nome-do-projeto
 npm install
 
 # Rode o projeto
-npm start
+npm run dev
 ```
 
 ## 🔐 Usuário de acesso
