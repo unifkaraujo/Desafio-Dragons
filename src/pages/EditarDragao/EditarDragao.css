@@ -1,0 +1,55 @@
+.edit-dragon-container h2 {
+  color: #333;
+  font-size: 22px;
+  margin-bottom: 2rem;
+}
+
+.edit-dragon-form label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.edit-dragon-form input {
+  width: 100%;
+  padding: 0.6rem;
+  margin-bottom: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.edit-dragon-container-button {
+  display: flex;
+  justify-content: end;
+}
+
+.edit-dragon-form button {
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-left: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.edit-dragon-form button[type="submit"] {
+  background-color: #8e44ad;
+  color: white;
+}
+
+.edit-dragon-form button[type="submit"]:hover {
+  background-color: #5e2d72;
+}
+
+.edit-dragon-form button[type="button"] {
+  background-color: #d5d1d1;
+  color: rgb(0, 0, 0);
+}
+
+.edit-dragon-form button[type="button"]:hover {
+  background-color: #a9a7a7;
+}

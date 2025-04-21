@@ -1,0 +1,19 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-color: #662A90;
+}
+.header-title {
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+.header-title h1{
+    color: white
+}
+.header-title img {
+    width: 40px;
+    height: auto;
+  }

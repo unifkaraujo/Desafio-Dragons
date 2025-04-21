@@ -1,0 +1,31 @@
+  .dragon-details-container h2 {
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  .dragon-details {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 3px #8e44ad;
+  }
+  
+  .dragon-details p {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+  }
+  
+  .dragon-details p strong {
+    font-weight: bold;
+  }
+  
+  @media (max-width: 600px) {
+    .dragon-details-container {
+      padding: 1rem;
+    }
+  
+    .dragon-details p {
+      font-size: 1rem;
+    }
+  }
+  
