@@ -16,10 +16,10 @@ Este projeto é uma aplicação desenvolvida em **React** com **TypeScript** e e
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/unifkaraujo/Desafio-Dragons
 
 # Acesse a pasta do projeto
-cd nome-do-projeto
+cd Desafio-Dragons
 
 # Instale as dependências
 npm install
